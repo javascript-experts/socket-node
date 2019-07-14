@@ -1,0 +1,22 @@
+{
+    "dbURI" : "mongodb://localhost:27017/chat",
+    "sessionSecret": "test secret",
+    "uploadsDir": "uploads",
+    "facebook": {
+        "clientID": "",
+        "clientSecret": "",
+        "callbackURL": "/auth/facebook/callback",
+        "profileFields": ["id", "displayName", "photos"]
+    },
+    "twitter": {
+        "consumerKey": "",
+        "consumerSecret": "",
+        "callbackURL": "/auth/twitter/callback",
+        "profileFields": ["id", "displayName", "photos"]
+    },
+    "redis": {
+        "host": "",
+        "port": "",
+        "password": "redisPassword"
+    }
+}
