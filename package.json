@@ -22,7 +22,7 @@
     "passport-twitter": "^1.0.4",
     "read-chunk": "^2.0.0",
     "redis": "^2.6.2",
-    "socket.io": "^1.4.8",
+    "socket.io": "^2.4.0",
     "socket.io-redis": "^1.0.0",
     "socketio-file-upload": "^0.4.7",
     "winston": "^2.2.0"
