@@ -13,7 +13,7 @@
     "ejs": "^2.5.1",
     "express": "^4.14.0",
     "express-session": "^1.14.0",
-    "file-type": "^3.8.0",
+    "file-type": "^16.5.4",
     "fs": "0.0.1-security",
     "mongoose": "^4.5.9",
     "passport": "^0.3.2",
